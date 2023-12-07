@@ -1,8 +1,8 @@
- class Demo
+ class demo
   {
-     public static void main(...)
+     public static void main(String args[])
      {
-         s.o.print(" Hello World!"); 
-         s.o.print(" Hello World!"); 
+         System.out.println("Hello test ")
+      
      }
   }
